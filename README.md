@@ -1,4 +1,4 @@
-# robofriends-testing
+# RoboSearch testing
 
 To run the project: 
 
